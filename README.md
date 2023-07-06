@@ -31,4 +31,18 @@ Although we demoed both, the Grounded QA API back-end is connected to the front-
 - To run: python3 app.py
 
 ## Demo
+### Welcome page
 ![image](https://github.com/Renali01/lotus2/assets/59395990/1f4be040-7f5f-4621-ba58-529405c8958c)
+
+### Asking Lotus a question
+![image](https://github.com/Renali01/lotus2/assets/59395990/e2de3df2-c2d8-41f6-a9db-0094c8d0fbf2)
+
+### Having a conversation with Lotus
+![image](https://github.com/Renali01/lotus2/assets/59395990/e2687d8a-2e71-44fd-9b5e-aafeac034ed6)
+
+### Asking a follow-up question
+![image](https://github.com/Renali01/lotus2/assets/59395990/5fce6287-a33c-457f-af71-19b0422bb7b2)
+
+### Continuing conversation without prior context
+![image](https://github.com/Renali01/lotus2/assets/59395990/fff315d8-e135-4a71-a415-b6b4639485d5)
+
