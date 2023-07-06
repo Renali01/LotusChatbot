@@ -1,18 +1,6 @@
 # Lotus
 Hack Western 9 - November 2022
 
-## Instructions
-1. Clone Repository
-2. Install all the dependencies
-- pip install -r requirements.txt
-- pip install cohere
-- pip install numpy
-
-3. Run Web App:
-- To activate virtual environment: . venv/bin/activate
-- To install Flask: pip install Flask
-- To run: python3 app.py
-
 ## Inspiration
 We were inspired by Cohere's Conversant API (specifically creating personas) and Cohere's Grounded QA API. These APIs create conversational AI and provide factual resources, respectively, and we wanted to combine them to create a friendly and informative resource. This is how we came up with our idea, Lotus: a compassionate web app that allows teenage girls to ask uncomfortable questions about growing up.
 
@@ -29,3 +17,18 @@ Back-End: Originally, we played around with the Conversant API and the Grounded 
 With the cloned Grounded QA API, we tested the basic functionality of having the API search top Google results for factual answers to the user's questions. We then added two input files that modified the tone of the API to make it more friendly and conversational.
 
 Although we demoed both, the Grounded QA API back-end is connected to the front-end. In the future, we would want to connect the Conversant API with the Grounded QA API to add a persona to the factual information.
+
+## Instructions - How to Run
+1. Clone Repository
+2. Install all the dependencies
+- pip install -r requirements.txt
+- pip install cohere
+- pip install numpy
+
+3. Run Web App:
+- To activate virtual environment: . venv/bin/activate
+- To install Flask: pip install Flask
+- To run: python3 app.py
+
+## Demo
+![image](https://github.com/Renali01/lotus2/assets/59395990/1f4be040-7f5f-4621-ba58-529405c8958c)
