@@ -1,6 +1,5 @@
 # Lotus
-Hack Western 9 - November 2022
-Won Cohere's Honourable Mention!
+Hack Western 9 (November 2022) - We won Cohere's Honourable Mention!
 
 ## Inspiration
 We were inspired by Cohere's Conversant API (specifically creating personas) and Cohere's Grounded QA API. These APIs create conversational AI and provide factual resources, respectively, and we wanted to combine them to create a friendly and informative resource. This is how we came up with our idea, Lotus: a compassionate web app that allows teenage girls to ask uncomfortable questions about growing up.
